@@ -1,0 +1,23 @@
+[
+    [
+        {
+            "User ID": "2",
+            "Favorites": {
+                "CMS": [
+                    1,
+                    13,
+                    12,
+                    14
+                ],
+                "PL": [
+                    "SEI Strategic",
+                    "SEI Tactical",
+                    "Private Client",
+                    "Short Term"
+                ]
+            },
+            "Created on": "2021-06-21 17:21:23",
+            "Created By": "3"
+        }
+    ]
+]
